@@ -59,22 +59,6 @@ while True:
         print(load())
     
 
-# kontakts = {}
-# kontakts = {'мама': '96496', 
-#             'Папа': '63463',
-#             'сестра': '69438'
-#             }
-# x = kontakts['мама']
-# print(x) # так мы получаем значение т.е номер контакта
-
-
-
-
-# while True:
-#     command = input("Введите команду: ")
-#     if command == "/поиск":
-# k = input('Введите имя контакта: ')
-# print(f" Номер контакта {k} - {kontakts[k] } ")
         
 
 
